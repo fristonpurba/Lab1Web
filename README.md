@@ -34,3 +34,4 @@ Lalu juga bisa mengubah-ubah nilai atributnya pada bagian paragraf dengan menggu
 Selanjutnya juga bisa `memformat teks` pada paragraf dengan tag `<b>`, `<strong>`, `<i>`, `<em>`, `<mark>`, `<small>`, `<del>`, `<ins>`, `<sub>` dan `<sup>`.
 ![gambar-6][def-6]
 
+[def-6]: /image/ss6.jpg
