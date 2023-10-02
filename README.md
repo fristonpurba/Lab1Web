@@ -22,3 +22,6 @@ Nah selanjutnya, buka file yang sudah dibuat tadi pada web browser.
 Kenapa halamannya kosong karena didalam file `lab1_tag_dasar.html` hanya ada tag title yang hanya menampilkan judul sebuah halaman.
 
 Selanjutnya membuat judul dan pargraf, dalam membuat judul menggunakan `tag h1 - h6` untuk membuat paragrafnya menggunakan tag `<p>`.
+![gambar-4][def-4]
+
+[def-4]: /image/ss4.jpg
