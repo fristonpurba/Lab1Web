@@ -29,4 +29,4 @@ Selanjutnya membuat judul dan pargraf, dalam membuat judul menggunakan `tag h1 -
 Lalu juga bisa mengubah-ubah nilai atributnya pada bagian paragraf dengan menggunakan nilai atribut `(align="right", align="left")`
 ![gambar-5][def-5]
 
-![def-5]: /image/ss5.jpg
+[def-5]: /image/ss5.jpg
