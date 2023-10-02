@@ -15,3 +15,6 @@ Lalu buatlah file baru dengan nama `lab1_tag_dasar.html`dan buat struktur HTML- 
 [def-2]: /image/ss2.jpg
 
 Nah selanjutnya, buka file yang sudah dibuat tadi pada web browser.
+![gambar-3][def-3]
+
+[def-3]: /image/ss3.jpg
